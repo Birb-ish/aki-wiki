@@ -154,12 +154,12 @@ branches:
 ---
 id: bot-question-add-character
 title: "The Aki bot runs off the Akinator database, so to add a character, you would need to add it there.\n 
-Link: <http://akinator.com/>"
+Link: < https://en.akinator.com/content/6/everything-you-ve-always-wanted-to-know-about-akinator>"
 
 ---
 id: bot-question-edit-character
 title: "The Aki bot runs off the Akinator database, so to fix a typo or change a picture you would need to do that there.\n 
-Link: <http://akinator.com/>"
+Link: < https://en.akinator.com/content/6/everything-you-ve-always-wanted-to-know-about-akinator>"
 
 ---
 id: bot-question-upvote-continue
